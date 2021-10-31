@@ -14,4 +14,18 @@ Barnsley shows the IFS code for his Black Spleenwort fern fractal as a matrix of
 
 <br>
 
+# Output
+when s = 0
+<br>
+![image](https://user-images.githubusercontent.com/81099796/139589567-2795ca27-fcfa-4895-96ef-3e0899d68f79.png)
+<br>
+when s = 2
+<br>
+![image](https://user-images.githubusercontent.com/81099796/139589592-b0d04fb8-6362-4783-984c-8341550e960b.png)
+
+Using Christian Hill method
+<br>
+![image](https://user-images.githubusercontent.com/81099796/139589626-91a51b95-63f6-42df-ab2e-416c12575cbd.png)
+
+
 ^ Source - Wikipedia - https://en.wikipedia.org/wiki/Barnsley_fern
